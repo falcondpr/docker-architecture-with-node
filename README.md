@@ -1,7 +1,6 @@
 ## Architecture
 
 <img src="./architecture.webp" style="object-fit: containt;" />
-<br/>
 
 1. **Docker Client:**
     - The Docker client is the command-line interface (CLI) or graphical user interface (GUI) that users interact with to build, manage, and control Docker containers.
